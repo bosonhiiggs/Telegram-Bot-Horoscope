@@ -1,5 +1,5 @@
 import asyncio
-from config import TOKEN, URL
+from config import TOKEN
 from aiogram import Bot, Dispatcher, executor
 
 
